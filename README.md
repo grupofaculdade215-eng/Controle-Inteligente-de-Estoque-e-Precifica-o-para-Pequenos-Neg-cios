@@ -21,11 +21,14 @@ Navegue pelas pastas para encontrar os artefatos do projeto.
 | :--- | :--- |
 | **[01_Documentacao](01_Documentacao/)** | Documento oficial final do projeto. |
 | **[02_Diagramas](02_Diagramas/)** | Diagramas, requisitos (RF/RNF), pedido do cliente e proposta inicial. |
-| **[03_Pedido](03_Pedido/)** | Resumo executivo do site/solução. |
-| **[04_PropostaSite](04_PropostaSite/)** | Código-fonte do protótipo inicial e da versão final. |
-| **[05_Resumo](05_Resumo/)** | Imagens das reuniões do grupo e o Kanban de acompanhamento. |
-| **[06_Codigos](06_Codigos/)** | Slide final utilizado na defesa do trabalho. |
-| **[06_Protótipo final](06_Protótipo final/)** | Slide final utilizado na defesa do trabalho. |
+| **[03_Pedido](03_Pedido/)** | Pedido do cliente. |
+| **[04_PropostaSite](04_PropostaSite/)** | Proposta usada para criar o site. |
+| **[05_Resumo](05_Resumo/)** | Resumo do nosso site. |
+| **[06_Codigos](06_Codigos/)** | Códigos usado para o protótipo. |
+| **[07_PrototipoFinal](07_PrototipoFinal/)** | Protótipo final. |
+| **[08_Reunioes](08_Reunioes/)** | Imagens das Reuniões. |
+| **[09_Kanban](09_Kanban/)** | Imagem do Kanban. |
+| **[010_Slide](010_Slide/)** | Slide final utilizado na defesa do trabalho. |
 
 ## 🔗 Link Útil
 
