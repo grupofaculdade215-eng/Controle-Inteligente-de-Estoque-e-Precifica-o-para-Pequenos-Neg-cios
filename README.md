@@ -1,0 +1,1 @@
+# Controle-Inteligente-de-Estoque-e-Precifica-o-para-Pequenos-Neg-cios
