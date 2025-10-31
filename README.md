@@ -20,11 +20,12 @@ Navegue pelas pastas para encontrar os artefatos do projeto.
 | Pasta | Conteúdo Principal |
 | :--- | :--- |
 | **[01_Documentacao](01_Documentacao/)** | Documento oficial final do projeto. |
-| **[02_Analise](02_Analise/)** | Diagramas, requisitos (RF/RNF), pedido do cliente e proposta inicial. |
-| **[03_Resumo](03_Resumo/)** | Resumo executivo do site/solução. |
-| **[04_Codigo](04_Codigo/)** | Código-fonte do protótipo inicial e da versão final. |
-| **[05_Evidencias](05_Evidencias/)** | Imagens das reuniões do grupo e o Kanban de acompanhamento. |
-| **[06_Apresentacao](06_Apresentacao/)** | Slide final utilizado na defesa do trabalho. |
+| **[02_Diagramas](02_Diagramas/)** | Diagramas, requisitos (RF/RNF), pedido do cliente e proposta inicial. |
+| **[03_Pedido](03_Pedido/)** | Resumo executivo do site/solução. |
+| **[04_PropostaSite](04_PropostaSite/)** | Código-fonte do protótipo inicial e da versão final. |
+| **[05_Resumo](05_Resumo/)** | Imagens das reuniões do grupo e o Kanban de acompanhamento. |
+| **[06_Codigos](06_Codigos/)** | Slide final utilizado na defesa do trabalho. |
+| **[06_Protótipo final](06_Protótipo final/)** | Slide final utilizado na defesa do trabalho. |
 
 ## 🔗 Link Útil
 
