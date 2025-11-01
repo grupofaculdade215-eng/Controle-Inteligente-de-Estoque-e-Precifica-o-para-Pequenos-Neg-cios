@@ -28,8 +28,8 @@ Navegue pelas pastas para encontrar os artefatos do projeto.
 | **[07_PrototipoFinal](07_PrototipoFinal/)** | Protótipo final. |
 | **[08_Reunioes](08_Reunioes/)** | Imagens das Reuniões. |
 | **[09_Kanban](09_Kanban/)** | Imagem do Kanban. |
-| **[010_Slide](010_Slide/)** | Slide final utilizado na defesa do trabalho. |
+| **[10_Slide](010_Slide/)** | Slide final utilizado na defesa do trabalho. |
 
 ## 🔗 Link Útil
 
-* https://medley-spoke-18496369.figma.site/
+* [https://medley-spoke-18496369.figma.site/](https://medley-spoke-18496369.figma.site/)
