@@ -4,7 +4,7 @@
 
 Clique no link abaixo para acessar a versão online (deploy) do sistema:
 
-[Protótipo Figma Site (medley-spoke-33496309.figma.site)](https://medley-spoke-33496309.figma.site/)
+([https://medley-spoke-33496309.figma.site/](https://medley-spoke-18496369.figma.site/))
 
 ---
 
