@@ -28,3 +28,18 @@ Foco: Organização das histórias de usuário (User Stories) detalhadas, priori
 📸 Registro Visual (7.2):
 
 Esta foto documenta o momento em que a equipe alinha as expectativas para a primeira fase de desenvolvimento do protótipo e organiza o backlog da Sprint.
+
+
+3. Reunião sobre a Finalização do Projeto
+
+Referência: Imagem 7.3
+
+Data: 05 de Nov de 2025, às 19:27h
+
+Foco: Discussão e acompanhamento das etapas finais do projeto, revisão dos entregáveis e preparação para a apresentação final.
+
+Registro Visual (7.3):
+
+A foto registra o momento da reunião virtual de acompanhamento final do projeto, onde a equipe revisa o status de entrega do Sprint 7 e a organização do quadro Kanban.
+
+
